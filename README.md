@@ -6,7 +6,4 @@ In collaboration with the Center for Microbiome Analysis through Island Knowledg
 
 This version of the web application is implemented as a client-side application using the [AngularJS framework](http://angularjs.org/). It is designed to run entirely within your browser with no need for a back-end server. The Aside from the Tapis Platform itself, there are no external third-party service dependencies. The assets produced by this project are entirely static, thus you may host this application out of your Bitbucket, GitHub, Dropbox, Google Drive, or even a folder you published using Agave.  
 
-## Getting Started
-
-To get you started you can simply clone the angular-seed repository and install the dependencies:
 
